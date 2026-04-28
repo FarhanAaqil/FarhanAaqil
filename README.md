@@ -73,19 +73,37 @@ I'm an aspiring AI/ML engineer obsessed with building things that actually work 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanaaqil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanaaqil&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=FarhanAaqil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAaqil&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
-<img src="https://streak-stats.demolab.com/?user=farhanaaqil&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://streak-stats.demolab.com/?user=FarhanAaqil&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**🧤 IntelliGlove**](#) | A multi-mode smart glove that lets you control your PC with gestures, motion, and touch-free interaction. | `Python` `Arduino` `Raspberry Pi` |
+| [**🩺 DiaPredict AI**](#) | Predicts diabetes risk using machine learning, enabling early detection and smarter health decisions. | `Python` `scikit-learn` `FastAPI` |
+| [**📊 SheetSense AI**](#) | An AI chatbot that interacts with Google Sheets to fetch, analyze, and automate data through natural language. | `Python` `LangChain` `Google Sheets API` |
+
+---
+
+## 📬 Get In Touch
+
+I'm always open to interesting conversations, collaborations, or job opportunities.
+
+- 📧 **Email:** [fadurrani543@gmail.com](mailto:fadurrani543@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/Farhan Aaqil](https://linkedin.com/in/Farhan%20Aaqil)
+- 📸 **Instagram:** [@farhan.__.79](https://instagram.com/farhan.__.79)
+
+---
+
 <div align="center">
 
-*Let's build something smart together — reach out anytime.*
-
-[![Email](https://img.shields.io/badge/fadurrani543@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadurrani543@gmail.com)
+*Let's build something smart together.*
 
 </div>
