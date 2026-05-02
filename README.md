@@ -97,7 +97,7 @@ I'm an aspiring AI/ML engineer obsessed with building things that actually work 
 I'm always open to interesting conversations, collaborations, or job opportunities.
 
 - 📧 **Email:** [fadurrani543@gmail.com](mailto:fadurrani543@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/Farhan Aaqil](https://linkedin.com/in/Farhan%20Aaqil)
+- 🔗 **LinkedIn:** [linkedin.com/in/Farhan Aaqil](https://www.linkedin.com/in/farhan-aaqil-4730432bb/)
 - 📸 **Instagram:** [@farhan.__.79](https://instagram.com/farhan.__.79)
 
 ---
