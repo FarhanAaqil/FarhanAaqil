@@ -1,15 +1,13 @@
 <div align="center">
 
-# Hey, I'm Farhan Aaqil 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+LLM+Agent+Developer;Building+Self-Improving+AI+Systems;Groq+%7C+LangChain+%7C+ChromaDB+%7C+Python;Open+to+Remote+AI%2FML+Roles" alt="Typing SVG" />
 
-**AI/ML Engineer in the Making · Builder · Tinkerer**
+<br/>
 
-*Turning coffee and curiosity into intelligent systems*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-aaqil-4730432bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/farhan.__.79)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadurrani543@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-aaqilportfolio.vercel.app-00E5FF?style=flat-square&logo=vercel&logoColor=black)](https://aaqilportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhan--aaqil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-aaqil-4730432bb/)
+[![Email](https://img.shields.io/badge/Email-fadurrani543%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadurrani543@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=FarhanAaqil&color=00e5ff&style=flat-square&label=Profile+Views)](https://github.com/FarhanAaqil)
 
 </div>
 
@@ -17,93 +15,129 @@
 
 ## About Me
 
-I'm an aspiring AI/ML engineer obsessed with building things that actually work — not just demos, but real systems. My sweet spot is at the intersection of machine learning and software engineering: training models, wiring up agents, and shipping full-stack apps powered by AI.
+AI/ML Engineer focused on LLM agents, RAG pipelines, and autonomous code systems. I build things that actually run — not notebooks, not demos — working agents with vector memory, sandbox execution, and critique loops.
 
-- 🧠 Exploring **LLMs, AI agents, and autonomous systems**
-- 🔧 Experienced across the full stack — from PyTorch models to React frontends
-- 🌱 Currently deepening my expertise in **production-grade AI pipelines**
-- 🎯 Actively seeking **AI Developer / ML Engineer** roles
-- 🤝 Open to collaboration on research projects and open-source AI tools
+- 🤖 Currently building a **[Self-Improving Code Agent](https://github.com/FarhanAaqil/self-improving-agent)** — Groq + ChromaDB + HumanEval benchmark, zero-cost stack
+- 🏢 Former **Python Full Stack & AIML Intern** @ Jala Academy
+- 📄 Published ML researcher — diabetes prediction paper (2025)
+- 🎓 B.Tech AI/ML — JPNCE Mahbubnagar, Telangana (2027)
+- 🎯 Open to **remote AI/ML internships and junior roles**
 
 ---
 
-## Tech Stack
+## 🔨 Currently Building
 
-**AI / ML**
+> **[self-improving-agent](https://github.com/FarhanAaqil/self-improving-agent)** — A Python agent that writes code, runs it in a subprocess sandbox, critiques its own output with a second LLM pass, stores failures in ChromaDB vector memory, and benchmarks improvement against HumanEval.
+
+```
+Week 1 ✅  Generator + sandbox loop
+Week 2 ✅  Critique agent
+Week 3 ✅  ChromaDB vector memory
+Week 4 ✅  timeit + tracemalloc benchmarking
+Week 5 ✅  HumanEval evaluation suite
+```
+
+---
+
+## 🛠 Tech Stack
+
+**LLM Agents & AI Systems**
+
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![sentence--transformers](https://img.shields.io/badge/sentence--transformers-gray?style=flat-square)
+
+**Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-**Data & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FarhanAaqil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAaqil&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-<img src="https://streak-stats.demolab.com/?user=FarhanAaqil&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**🧤 IntelliGlove**](#) | A multi-mode smart glove that lets you control your PC with gestures, motion, and touch-free interaction. | `Python` `Arduino` `Raspberry Pi` |
-| [**🩺 DiaPredict AI**](#) | Predicts diabetes risk using machine learning, enabling early detection and smarter health decisions. | `Python` `scikit-learn` `FastAPI` |
-| [**📊 SheetSense AI**](#) | An AI chatbot that interacts with Google Sheets to fetch, analyze, and automate data through natural language. | `Python` `LangChain` `Google Sheets API` |
+| Project | What it does | Stack |
+|---|---|---|
+| [**🤖 Self-Improving Agent**](https://github.com/FarhanAaqil/self-improving-agent) | Generates Python code, runs it in a sandbox, critiques output, stores failures in vector memory, benchmarks vs HumanEval | `Groq` `Llama 3.3 70B` `ChromaDB` `Streamlit` |
+| [**🧠 Orchestrater Agent**](https://github.com/FarhanAaqil/orchestrater_agent) | Multi-agent personal AI chief of staff — routes tasks to specialist agents for jobs, research, content, GitHub, email | `Groq` `LangChain` `ChromaDB` `APScheduler` `Playwright` |
+| [**📊 Sheet-AI**](https://github.com/FarhanAaqil/Sheet-AI) | ReAct agent for Google Sheets — query, visualize, update and delete rows in natural language with RAG-Fusion retrieval | `Gemini 1.5 Pro` `gspread` `RAG-Fusion` `Plotly` `Streamlit` |
+| [**🎤 InterviewPro**](https://github.com/FarhanAaqil/interviewpro) | AI-powered interview prep platform — timed sessions, AI feedback, progress tracking across topics | `JavaScript` `HTML` |
+| [**🌐 Portfolio**](https://github.com/FarhanAaqil/Portfolio) | Personal dev portfolio with custom cursor, dark sci-fi aesthetic, live resume download | `HTML` `CSS` `JS` · [**Live →**](https://aaqilportfolio.vercel.app) |
+| [**⚙️ Code Generator Agent**](https://github.com/FarhanAaqil/code-generator-agent) | Groq-powered agent that generates Python from prompts, runs it, and auto-repairs errors in a loop | `Groq` `Python` `subprocess` |
 
 ---
 
-## 📬 Get In Touch
+## 📄 Research
 
-I'm always open to interesting conversations, collaborations, or job opportunities.
+**ML-Based Diabetes Prediction Using Ensemble Methods** · *Published 2025*
 
-- 📧 **Email:** [fadurrani543@gmail.com](mailto:fadurrani543@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/Farhan Aaqil](https://www.linkedin.com/in/farhan-aaqil-4730432bb/)
-- 📸 **Instagram:** [@farhan.__.79](https://instagram.com/farhan.__.79)
+Applied ensemble learning (Random Forest, XGBoost, Gradient Boosting) on the PIMA Indians Diabetes Dataset. Achieved high accuracy with feature importance analysis and clinical threshold tuning for early-detection use cases.
 
 ---
+
+## 💼 Experience
+
+**Python Full Stack & AIML Intern** · Jala Academy
+- Built and deployed full-stack Python applications end-to-end
+- Developed ML pipelines for classification and regression tasks
+- Worked across FastAPI backends, data preprocessing, and model integration
+
+---
+
+## 🏅 Certifications
+
+![Anthropic](https://img.shields.io/badge/Anthropic-4×_Certified-000000?style=flat-square&logo=anthropic&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-DBMS-0078D4?style=flat-square)
+![Apna College](https://img.shields.io/badge/Apna_College-Full_Stack-orange?style=flat-square)
+![SkillUp](https://img.shields.io/badge/SkillUp-2×_Certified-purple?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-*Let's build something smart together.*
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=FarhanAaqil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAaqil&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FarhanAaqil&theme=tokyonight&hide_border=true)](https://github.com/FarhanAaqil)
+
+</div>
+
+---
+
+## 📬 Contact
+
+- 📧 **Email:** [fadurrani543@gmail.com](mailto:fadurrani543@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/farhan-aaqil-4730432bb](https://www.linkedin.com/in/farhan-aaqil-4730432bb/)
+- 🌐 **Portfolio:** [aaqilportfolio.vercel.app](https://aaqilportfolio.vercel.app)
+
+<div align="center">
+
+*Open to remote AI/ML internships and junior roles. Let's build something intelligent.*
 
 </div>
