@@ -119,12 +119,11 @@ Applied ensemble learning (Random Forest, XGBoost, Gradient Boosting) on the PIM
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=FarhanAaqil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAaqil&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FarhanAaqil&theme=tokyonight&hide_border=true)](https://github.com/FarhanAaqil)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FarhanAaqil&theme=tokyonight&hide_border=true)](https://github.com/FarhanAaqil)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAaqil&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
