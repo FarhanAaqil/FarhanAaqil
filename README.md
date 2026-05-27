@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+LLM+Agent+Developer;Building+Self-Improving+AI+Systems;Groq+%7C+LangChain+%7C+ChromaDB+%7C+Python;Open+to+Remote+AI%2FML+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+LLM+Agent+Developer;Building+Self-Improving+AI+Systems;Groq+%7C+LangChain+%7C+ChromaDB+%7C+Python;Open+to+AI%2FML+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -138,6 +138,7 @@ Applied ensemble learning (Random Forest, XGBoost, Gradient Boosting) on the PIM
 
 <div align="center">
 
-*Open to remote AI/ML internships and junior roles. Let's build something intelligent.*
+*Open to  AI/ML internships and job roles
+. Let's build something intelligent.*
 
 </div>
