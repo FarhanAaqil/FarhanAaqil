@@ -17,25 +17,10 @@
 
 AI/ML Engineer focused on LLM agents, RAG pipelines, and autonomous code systems. I build things that actually run — not notebooks, not demos — working agents with vector memory, sandbox execution, and critique loops.
 
-- 🤖 Currently building a **[Self-Improving Code Agent](https://github.com/FarhanAaqil/self-improving-agent)** — Groq + ChromaDB + HumanEval benchmark, zero-cost stack
 - 🏢 Former **Python Full Stack & AIML Intern** @ Jala Academy
 - 📄 Published ML researcher — diabetes prediction paper (2025)
 - 🎓 B.Tech AI/ML — JPNCE Mahbubnagar, Telangana (2027)
 - 🎯 Open to **remote AI/ML internships and junior roles**
-
----
-
-## 🔨 Currently Building
-
-> **[self-improving-agent](https://github.com/FarhanAaqil/self-improving-agent)** — A Python agent that writes code, runs it in a subprocess sandbox, critiques its own output with a second LLM pass, stores failures in ChromaDB vector memory, and benchmarks improvement against HumanEval.
-
-```
-Week 1 ✅  Generator + sandbox loop
-Week 2 ✅  Critique agent
-Week 3 ✅  ChromaDB vector memory
-Week 4 ✅  timeit + tracemalloc benchmarking
-Week 5 ✅  HumanEval evaluation suite
-```
 
 ---
 
