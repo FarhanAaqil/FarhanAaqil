@@ -9,6 +9,7 @@
 AI/ML engineer building LLM agents, multi-agent orchestration systems, and autonomous code tools — plus automation and AI-powered web apps I ship end-to-end, not just notebooks.
 
 - 🏢 **AI Engineer Intern** (Remote) @ Sydney Leads Digital Marketing
+- 🏢 Former **Python Full Stack & AIML Intern (Tech Lead)** @ Jala Academy
 - 🎓 Final-year **B.Tech AI/ML** — JPNCE, Mahbubnagar, Telangana
 - 📄 Published ML researcher — diabetes prediction paper (2025)
 - 🎯 Open to **remote AI/ML internships and junior roles**
@@ -39,16 +40,15 @@ AI/ML engineer building LLM agents, multi-agent orchestration systems, and auton
 
 ---
 
-## 🚀 Best Projects
+## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**🏢 Cohere Aegis**](https://github.com/FarhanAaqil/Cohere-Aegis) | Workforce ops / attendance & monitoring platform built during internship, with a Chrome extension companion | `React` `Vite` `TypeScript` `Tailwind` `Supabase` |
-| [**🧠 Orchestrator Agent ("Aaqil")**](https://github.com/FarhanAaqil/orchestrator_agent) | Personal AI chief of staff — routes tasks across career, research, and content agents behind a provable human-approval gate; being hardened into a FastAPI core with a React frontend | `Groq` `FastAPI` `React` `ChromaDB` `APScheduler` |
-| [**🤖 Self-Improving Code Agent**](https://github.com/FarhanAaqil/self-improving-agent) | Generates Python, runs it in a Dockerized sandbox, critiques and repairs its own output, benchmarks against HumanEval | `Groq` `Llama 3.3 70B` `Docker` `FastAPI` `React` |
-| [**🔭 NebulaLM**](https://github.com/FarhanAaqil/NebulaLM) | GPT-style LLM built and trained entirely from scratch — custom BPE tokenizer, transformer architecture, training loop — specialized on space/astronomy data | `PyTorch` `Custom BPE` |
-| [**🚪 GateOrchestra**](https://github.com/FarhanAaqil/GateOrchestra) *(capstone, team lead)* | Token-budget-calibrated gating layer for multi-agent orchestration | `Groq` `Llama 3.3 70B` |
-| [**📊 Sheet-AI**](https://github.com/FarhanAaqil/Sheet-AI) | ReAct agent for Google Sheets — natural-language query, update, and delete over spreadsheet data | `Gemini 1.5 Pro` `LangChain` `gspread` `FastAPI` |
+| [**🧠 Autonomous Orchestrator Agent**](https://github.com/FarhanAaqil/Autonomous-Orchestrator-Agent) | Multi-agent orchestration service with a human-approval gate for outbound actions: signed approvals, payload-hash binding, idempotent execution, and an append-only audit log. Router classifies 106/106 frozen test commands | `FastAPI` `SQLite` `ChromaDB` `React` `Groq` `Docker` |
+| [**🤖 Self-Improving Code Agent**](https://github.com/FarhanAaqil/self-improving-agent) | Generates Python, runs it in a no-network, read-only Docker sandbox, critiques tracebacks and repairs its own code. 88% pass@1 and 96% pass@5 on 50 HumanEval problems | `Groq` `Llama 3.3 70B` `Docker` `FastAPI` `React` |
+| [**🚪 GateOrchestra**](https://github.com/FarhanAaqil/GateOrchestra) *(AIML capstone)* | Learned gate that decides, before execution, whether a query needs a single-agent probe or full multi-agent orchestration, under per-task token budgets. 498 tests | `Python` `Groq` `Llama 3.3 70B` `FastAPI` `React` |
+| [**🔭 NebulaLM**](https://github.com/FarhanAaqil/NebulaLM) *(3-member team project)* | From-scratch LLM pipeline for space/astronomy text: custom byte-level BPE tokenizer, model presets, sequence packing with loss masks. Transformer training is in progress | `PyTorch` `HF Tokenizers` |
+| [**📊 Sheet-AI (SheetSense)**](https://github.com/FarhanAaqil/Sheet-AI) | Conversational agent over live Google Sheets. Schema retrieval with RAG-Fusion, and a confirmation gate so no write happens without explicit approval. 100% routing on a 30-case offline benchmark | `Gemini` `LangGraph` `FastAPI` `Redis` |
 
 ---
 
@@ -62,10 +62,15 @@ Applied ensemble learning (Random Forest, XGBoost, Gradient Boosting) on the PIM
 
 ## 💼 Experience
 
-**AI Engineer Intern (Remote)** · Sydney Leads Digital Marketing
+**AI Engineer Intern (Remote)** · Sydney Leads Digital Marketing · Aug 2026 – Present
 
 - Building AI-powered apps, automation, and LLM-driven tooling
 - Shipping and deploying AI-integrated websites
+
+**Python Full Stack & AIML Intern (Tech Lead)** · Jala Academy · Sep 2025 – Nov 2025
+
+- Led development of scalable web and AI applications as Tech Lead
+- Mentored peers and supported Jala Academy's educational and technology goals
 
 ---
 
