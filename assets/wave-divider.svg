@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="30" viewBox="0 0 1200 30">
+<defs><linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c9a227" stop-opacity="0"/><stop offset=".5" stop-color="#c9a227" stop-opacity=".9"/><stop offset="1" stop-color="#c9a227" stop-opacity="0"/></linearGradient></defs>
+<rect x="80" y="14.5" width="1040" height="1" fill="url(#fade)"/>
+<g transform="translate(600.0,15)"><rect x="-26" y="-6" width="52" height="12" fill="none"/><path d="M0,-8 L2.2,0 L0,8 L-2.2,0 Z M-8,0 L0,-2.2 L8,0 L0,2.2 Z" fill="#c9a227"/><circle r="10" fill="none" stroke="#c9a227" stroke-width=".7"/><circle cx="-22" r="1.6" fill="#c9a227"/><circle cx="22" r="1.6" fill="#c9a227"/><animateTransform attributeName="transform" type="rotate" additive="sum" values="0;360" dur="30s" repeatCount="indefinite"/></g>
+</svg>
